@@ -54,7 +54,7 @@ I'm still just a College student working and learning different things that inte
 [python]: https://www.python.org
 [git]: https://git-scm.com/
 [github]: https://github.com/
-[vue]: vuejs.org
-[react]: reactjs.org
+[vue]: https://vuejs.org
+[react]: https://reactjs.org
 [vs]: https://visualstudio.microsoft.com/
 [vscode]: https://code.visualstudio.com/
