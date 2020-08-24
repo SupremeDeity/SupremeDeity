@@ -31,9 +31,9 @@ I'm still just a College student working and learning different things that inte
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 <br />
 
+---
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
+---
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="SupremeDeity's Github Stats" src="https://github-readme-stats.supremedeity.vercel.app/api?username=SupremeDeity&show_icons=true&hide_border=true" />
