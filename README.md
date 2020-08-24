@@ -33,6 +33,10 @@ I'm still just a College student working and learning different things that inte
 
 ---
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com//SupremeDeity/Crate/pull/1) in [SupremeDeity/Crate](https://github.com//SupremeDeity/Crate)
+2. 🎉 Merged PR [#1](https://github.com//SupremeDeity/Codio/pull/1) in [SupremeDeity/Codio](https://github.com//SupremeDeity/Codio)
+3. 💪 Opened PR [#1](https://github.com//SupremeDeity/Codio/pull/1) in [SupremeDeity/Codio](https://github.com//SupremeDeity/Codio)
+<!--END_SECTION:activity-->
 ---
 <details>
   <summary>:zap: Github Stats</summary>
