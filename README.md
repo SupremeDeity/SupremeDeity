@@ -38,19 +38,16 @@ I'm still just a College student working and learning different things that inte
 2. 🎉 Merged PR [#1](https://github.com//SupremeDeity/Codio/pull/1) in [SupremeDeity/Codio](https://github.com//SupremeDeity/Codio)
 3. 💪 Opened PR [#1](https://github.com//SupremeDeity/Codio/pull/1) in [SupremeDeity/Codio](https://github.com//SupremeDeity/Codio)
 <!--END_SECTION:activity-->
----
-
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="SupremeDeity's Github Stats" src="https://github-readme-stats.supremedeity.vercel.app/api?username=SupremeDeity&show_icons=true&hide_border=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=FFD700&hide_title=true" />
-</details>
 
 ---
 
-<details>
-  <summary>:zap: Language Stats</summary>
-  <img align="left" alt="SupremeDeity's Github Language Stats" src="https://github-readme-stats.supremedeity.vercel.app/api/top-langs/?username=SupremeDeity&show_icons=true&hide_border=true&layout=compact" />
-</details>
+### Github Stats
+  <img alt="SupremeDeity's Github Stats" src="https://github-readme-stats.supremedeity.vercel.app/api?username=SupremeDeity&show_icons=true&hide_border=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=FFD700&hide_title=true" />
+  
+---
+
+### Language Stats
+  <img alt="SupremeDeity's Github Language Stats" src="https://github-readme-stats.supremedeity.vercel.app/api/top-langs/?username=SupremeDeity&show_icons=true&hide_border=true&layout=compact" />
 
 [facebook]: https://www.facebook.com/udamnkilledme
 [twitter]: https://twitter.com/Whisker26154370
