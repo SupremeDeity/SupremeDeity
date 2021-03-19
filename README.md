@@ -4,7 +4,7 @@
 ## Just a Teen College Student :smile:
 I'm still just a College student working and learning different things that interest me, from website to mobile and desktop.
 
-- <h4>Current Goal:</h4> - Learning Game Engine Development.
+- <h4>Current Goal:</h4> - Learning Rust
 
 ### Find me on
 [<img align="left" alt="SupremeDeity | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">][facebook]
@@ -28,6 +28,7 @@ I'm still just a College student working and learning different things that inte
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align="left" alt="Dart" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" />][dart]
 [<img align="left" alt="Flutter" width="26px" src="https://avatars1.githubusercontent.com/u/14101776?s=200&v=4" />][flutter]
+[<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />][rust]
 
 <br />
 
@@ -62,3 +63,4 @@ I'm still just a College student working and learning different things that inte
 [react]: https://reactjs.org
 [vs]: https://visualstudio.microsoft.com/
 [vscode]: https://code.visualstudio.com/
+[rust]: https://www.rust-lang.org/
