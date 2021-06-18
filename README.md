@@ -4,7 +4,7 @@
 ## Just a Teen College Student :smile:
 I'm still just a College student working and learning different things that interest me, from website to mobile and desktop.
 
-- <h4>Current Goal:</h4> - Learning Rust
+- <h4>Current Goal:</h4> - Learning React Native
 
 ### Find me on
 [<img align="left" alt="SupremeDeity | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">][facebook]
