@@ -36,8 +36,8 @@ I'm still just a College student working and learning different things that inte
 ### Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#207](https://github.com/draw-dev/DRAW/issues/207) in [draw-dev/DRAW](https://github.com/draw-dev/DRAW)
-2. ❗️ Opened issue [#2](https://github.com/Tahaan/expandable_tree_menu/issues/2) in [Tahaan/expandable_tree_menu](https://github.com/Tahaan/expandable_tree_menu)
-3. ❗️ Opened issue [#1](https://github.com/Tahaan/expandable_tree_menu/issues/1) in [Tahaan/expandable_tree_menu](https://github.com/Tahaan/expandable_tree_menu)
+2. 🗣 Commented on [#207](https://github.com/draw-dev/DRAW/issues/207) in [draw-dev/DRAW](https://github.com/draw-dev/DRAW)
+3. ❗️ Opened issue [#2](https://github.com/Tahaan/expandable_tree_menu/issues/2) in [Tahaan/expandable_tree_menu](https://github.com/Tahaan/expandable_tree_menu)
 <!--END_SECTION:activity-->
 
 ---
