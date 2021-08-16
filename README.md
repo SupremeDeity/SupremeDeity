@@ -35,9 +35,9 @@ I'm still just a College student working and learning different things that inte
 ---
 ### Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#517](https://github.com/brianegan/chewie/issues/517) in [brianegan/chewie](https://github.com/brianegan/chewie)
-2. 🗣 Commented on [#211](https://github.com/draw-dev/DRAW/issues/211) in [draw-dev/DRAW](https://github.com/draw-dev/DRAW)
-3. 🗣 Commented on [#61](https://github.com/draw-dev/DRAW/issues/61) in [draw-dev/DRAW](https://github.com/draw-dev/DRAW)
+1. ❗️ Opened issue [#212](https://github.com/draw-dev/DRAW/issues/212) in [draw-dev/DRAW](https://github.com/draw-dev/DRAW)
+2. 🗣 Commented on [#517](https://github.com/brianegan/chewie/issues/517) in [brianegan/chewie](https://github.com/brianegan/chewie)
+3. 🗣 Commented on [#211](https://github.com/draw-dev/DRAW/issues/211) in [draw-dev/DRAW](https://github.com/draw-dev/DRAW)
 <!--END_SECTION:activity-->
 
 ---
