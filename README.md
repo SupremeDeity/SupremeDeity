@@ -35,9 +35,9 @@ I'm still just a College student working and learning different things that inte
 ---
 ### Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/SupremeDeity/HyperUtilities/pull/1) in [SupremeDeity/HyperUtilities](https://github.com/SupremeDeity/HyperUtilities)
-2. 🗣 Commented on [#212](https://github.com/draw-dev/DRAW/issues/212) in [draw-dev/DRAW](https://github.com/draw-dev/DRAW)
-3. ❗️ Opened issue [#212](https://github.com/draw-dev/DRAW/issues/212) in [draw-dev/DRAW](https://github.com/draw-dev/DRAW)
+1. 💪 Opened PR [#213](https://github.com/draw-dev/DRAW/pull/213) in [draw-dev/DRAW](https://github.com/draw-dev/DRAW)
+2. 🎉 Merged PR [#1](https://github.com/SupremeDeity/HyperUtilities/pull/1) in [SupremeDeity/HyperUtilities](https://github.com/SupremeDeity/HyperUtilities)
+3. 🗣 Commented on [#212](https://github.com/draw-dev/DRAW/issues/212) in [draw-dev/DRAW](https://github.com/draw-dev/DRAW)
 <!--END_SECTION:activity-->
 
 ---
