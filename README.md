@@ -35,9 +35,9 @@ I'm still just a College student working and learning different things that inte
 ---
 ### Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#214](https://github.com/draw-dev/DRAW/issues/214) in [draw-dev/DRAW](https://github.com/draw-dev/DRAW)
-2. ❗️ Reopened issue [#214](https://github.com/draw-dev/DRAW/issues/214) in [draw-dev/DRAW](https://github.com/draw-dev/DRAW)
-3. ❗️ Closed issue [#214](https://github.com/draw-dev/DRAW/issues/214) in [draw-dev/DRAW](https://github.com/draw-dev/DRAW)
+1. 🗣 Commented on [#153](https://github.com/draw-dev/DRAW/issues/153) in [draw-dev/DRAW](https://github.com/draw-dev/DRAW)
+2. 🗣 Commented on [#214](https://github.com/draw-dev/DRAW/issues/214) in [draw-dev/DRAW](https://github.com/draw-dev/DRAW)
+3. ❗️ Reopened issue [#214](https://github.com/draw-dev/DRAW/issues/214) in [draw-dev/DRAW](https://github.com/draw-dev/DRAW)
 <!--END_SECTION:activity-->
 
 ---
