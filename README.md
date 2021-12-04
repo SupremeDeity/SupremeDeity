@@ -35,9 +35,9 @@ I'm still just a College student working and learning different things that inte
 ---
 ### Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/SupremeDeity/Crate/pull/11) in [SupremeDeity/Crate](https://github.com/SupremeDeity/Crate)
-2. 💪 Opened PR [#216](https://github.com/draw-dev/DRAW/pull/216) in [draw-dev/DRAW](https://github.com/draw-dev/DRAW)
-3. 🗣 Commented on [#215](https://github.com/draw-dev/DRAW/issues/215) in [draw-dev/DRAW](https://github.com/draw-dev/DRAW)
+1. 🎉 Merged PR [#6](https://github.com/SupremeDeity/RuFetch/pull/6) in [SupremeDeity/RuFetch](https://github.com/SupremeDeity/RuFetch)
+2. 💪 Opened PR [#6](https://github.com/SupremeDeity/RuFetch/pull/6) in [SupremeDeity/RuFetch](https://github.com/SupremeDeity/RuFetch)
+3. 🎉 Merged PR [#5](https://github.com/SupremeDeity/RuFetch/pull/5) in [SupremeDeity/RuFetch](https://github.com/SupremeDeity/RuFetch)
 <!--END_SECTION:activity-->
 
 ---
