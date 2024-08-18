@@ -1,17 +1,5 @@
-name: Update README
-
-on:
-  schedule:
-    - cron: '*/30 * * * *'
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
-
-    steps:
-      - uses: actions/checkout@v2
-      - uses: MadeByThePinsHub/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v3.0.0
+  with:
+    github_user_name: ${{ github.repository_owner }}
+          
